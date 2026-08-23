@@ -81,8 +81,8 @@ public class Item implements Serializable {
     /**
      * 是否是推广广告，true/false
      */
-    @TableField("isAD")
-    private Boolean isAD;
+        @TableField("isAD")
+        private Boolean isAD;
 
     /**
      * 商品状态 1-正常，2-下架，3-删除
